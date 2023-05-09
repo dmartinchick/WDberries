@@ -1,6 +1,6 @@
 import random
 from config import config
-# from db.items.model import Item
+# from models.items.model import Item
 # TODO: пересмотреть класс Elo
 
 
