@@ -60,3 +60,6 @@ class ConfigSingleton(object):
     @property
     def proxies(self):
         return self.__proxies
+
+
+config = ConfigSingleton('.env')
